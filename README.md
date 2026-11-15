@@ -19,6 +19,18 @@ Men hozir Git, GitHub, dasturlash va IT texnologiyalarini o‘rganyapman.
 \- \[Men haqimda](https://github.com/dadaboyevamm/men\_haqimda.md)
 
 
+## Men o‘rganayotgan texnologiyalar
+
+
+
+\- Git
+
+\- GitHub
+
+\- HTML
+
+\- CSS
+
 
 \## Maqsadim
 
