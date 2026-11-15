@@ -1,4 +1,4 @@
-\# Salom!
+# Salom!
 
 
 
@@ -10,29 +10,29 @@ Men hozir Git, GitHub, dasturlash va IT texnologiyalarini o‘rganyapman.
 
 
 
-\## Loyihalarim
+## Loyihalarim
 
 
 
-\- \[Kundalik loyiham](https://github.com/dadaboyevamm/kundalik)
+- \[Kundalik loyiham](https://github.com/dadaboyevamm/kundalik)
 
-\- \[Men haqimda](https://github.com/dadaboyevamm/men\_haqimda.md)
+- \[Men haqimda](https://github.com/dadaboyevamm/men\_haqimda.md)
 
 
 ## Men o‘rganayotgan texnologiyalar
 
 
 
-\- Git
+- Git
 
-\- GitHub
+- GitHub
 
-\- HTML
+- HTML
 
-\- CSS
+- CSS
 
 
-\## Maqsadim
+## Maqsadim
 
 
 
